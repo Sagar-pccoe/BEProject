@@ -1,0 +1,3 @@
+Port=27017
+Database=SalesDataWarehouse
+Hostname=localhost
